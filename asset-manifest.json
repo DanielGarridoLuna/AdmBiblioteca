@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/AdmBiblioteca/static/css/main.317eccfd.css",
-    "main.js": "/AdmBiblioteca/static/js/main.73c1e393.js",
+    "main.js": "/AdmBiblioteca/static/js/main.c56b4b6c.js",
     "static/js/453.f13356a1.chunk.js": "/AdmBiblioteca/static/js/453.f13356a1.chunk.js",
     "static/media/logo.png": "/AdmBiblioteca/static/media/logo.1024744905d85c4e7464.png",
     "index.html": "/AdmBiblioteca/index.html",
     "main.317eccfd.css.map": "/AdmBiblioteca/static/css/main.317eccfd.css.map",
-    "main.73c1e393.js.map": "/AdmBiblioteca/static/js/main.73c1e393.js.map",
+    "main.c56b4b6c.js.map": "/AdmBiblioteca/static/js/main.c56b4b6c.js.map",
     "453.f13356a1.chunk.js.map": "/AdmBiblioteca/static/js/453.f13356a1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.317eccfd.css",
-    "static/js/main.73c1e393.js"
+    "static/js/main.c56b4b6c.js"
   ]
 }
